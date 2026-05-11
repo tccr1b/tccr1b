@@ -5,6 +5,6 @@ hobbyist
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 * microcontrollers
-      <div>(avr8/rpi-pico/stm8/stm32/esp)</div>
+      <div>    (avr8/rpi-pico/stm8/stm32/esp)</div>
 * hardware
-      (smps / analog electronics)
+      <div>    (smps/analog_electronics)</div>
